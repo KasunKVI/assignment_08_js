@@ -1,0 +1,15 @@
+section{
+    margin-top: 30vh;
+    margin-left: 15vw;
+}
+section>div>span{
+    position: relative;
+    bottom: 4vh;
+}
+section>div>img{
+    margin-right: 5px;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
