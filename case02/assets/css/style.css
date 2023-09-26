@@ -24,9 +24,11 @@ section>section>div{
 #btns>button:first-child{
     background: greenyellow;
     border: none;
+    padding: 6px;
 }
 #btns>button:last-child{
     background: red;
     color: white;
     border: none;
+    padding: 6px;
 }
